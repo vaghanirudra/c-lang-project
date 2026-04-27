@@ -2,10 +2,10 @@
 
 int main()
 {
-    int choice;
+    int choice,r;
     float a, b;
 
-    while (1)
+    while (r=1)
     {
         printf("\n=== Calculator ===\n");
         printf("1. Addition (+)\n");
